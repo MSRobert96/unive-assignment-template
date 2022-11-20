@@ -1,0 +1,1 @@
+This is a simple Latex template for short assignments @ Ca' Foscari University of Venice.
